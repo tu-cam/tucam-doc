@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktucam_doc=self.webpackChunktucam_doc||[]).push([[9383],{7009:o=>{o.exports=JSON.parse('{"permalink":"/tucam-doc/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

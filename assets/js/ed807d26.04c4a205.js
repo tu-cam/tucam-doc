@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktucam_doc=self.webpackChunktucam_doc||[]).push([[993],{8372:o=>{o.exports=JSON.parse('{"permalink":"/tucam-doc/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
