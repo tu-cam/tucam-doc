@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktucam_doc=self.webpackChunktucam_doc||[]).push([[3312],{9720:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/tucam-doc/blog/tags/hello","allTagsPath":"/tucam-doc/blog/tags","count":2}')}}]);
